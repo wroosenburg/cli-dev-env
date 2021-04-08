@@ -9,4 +9,4 @@ This package provides:
 - Developer-friendly VIM
 
 ## Usage - Google Cloud Platform
-Execute sh -c "$(curl -fsSL https://raw.githubusercontent.com/wroosenburg/cli-dev-env/master/gcp/setup_gcp_dev_env.sh)"
+Execute 'sh -c "$(curl -fsSL https://raw.githubusercontent.com/wroosenburg/cli-dev-env/master/gcp/setup_gcp_dev_env.sh)"'
